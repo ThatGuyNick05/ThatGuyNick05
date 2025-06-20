@@ -1,16 +1,16 @@
-## Hi there 👋
+### 👋 Hey, I’m Nick — ThatGuyNick05
 
-<!--
-**ThatGuyNick05/ThatGuyNick05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm basically just a dude who enjoys making things happen and exist with code. 
 
-Here are some ideas to get you started:
+I’ve been programming for well over 5 years now, and I like to think I've dabbled in a bit of everything.  
+My strongest focus is **web development** — I'm great working with **TypeScript**, **JavaScript**, and **Python**, usually building full-stack apps or browser-based tools. But I have worked in other areas before, such as experimenting with **Rust**, **C++**, or **C#** projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+One of the biggest things I'd say I work on currently is being a **Head Developer for the AREDL** (All Rated Extreme Demons List), where I've been able to help manage and build parts of both the frontend and backend, though primarily frontend focused currently.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+- 💻 **Main:** TypeScript, JavaScript, Python, SQL, PHP  
+- 🌱 **Experimental:** Rust, C++, C#  
+- 🧩 **Also worked with:** Node.js, React, Express, and a bunch of random frameworks that seemed cool.
